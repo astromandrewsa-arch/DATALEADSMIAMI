@@ -5,3 +5,4 @@ leadgen/data/sectioned_grid*.json
 leadgen/raw/
 leadgen/cache*/
 leadgen/out/
+leadgen/data/bounced_emails.json
